@@ -42,7 +42,7 @@ Every number on the page is stored once in `data/paper_tables.json` and rendered
 - Comparisons use the baseline variants evaluated in the SACQ manuscript; values are not imported from other papers.
 - No runtime speedup or physical-robot validation is claimed.
 - Refinement optimizes codebooks/scales on calibration data, so SACQ is not described as training-free.
-- No accepted venue, arXiv identifier, or public code URL beyond the repository name has been invented.
+- The paper is arXiv:2610.41408 (cs.CV, first version 2026-10-30); the code is at https://github.com/haesunglee116/SACQ. No accepted venue is claimed.
 
 ## Design references
 

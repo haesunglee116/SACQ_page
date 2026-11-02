@@ -67,9 +67,8 @@ the URL, so do not rename the repository after the address has been published in
 Social previews use `assets/social-card.png` through the Open Graph and Twitter meta tags in
 `index.html`; those tags carry the absolute site URL.
 
-## Remaining release steps
+## Maintenance
 
-1. Point the Paper button at the arXiv abstract page (`index.html`, `RELEASE` comment in the hero) and replace the placeholder BibTeX with the arXiv record.
-2. Replace `assets/method-overview.*` and the panel SVGs if the manuscript figures change, and re-check `data/paper_tables.json` against the released paper (then run the build).
+1. Replace `assets/method-overview.*` and the panel SVGs if the manuscript figures change, and re-check `data/paper_tables.json` against the released paper (then run the build).
 
 The unreleased manuscript, drafts, and rollout videos are not included in this repository.
